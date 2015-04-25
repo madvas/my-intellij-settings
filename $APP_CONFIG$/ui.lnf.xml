@@ -1,0 +1,12 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="ENABLE_ALPHA_MODE" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="30" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+  </component>
+</application>

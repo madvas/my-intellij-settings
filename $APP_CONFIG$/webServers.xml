@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3d6ec35-654d-48b9-bb94-b84aba7f3b9c" name="previo" url="http://admin.previo.loc">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2e710910-0bb6-4200-9d9c-24abf04a7c96" name="matuslestan.com" url="http://ftp.disapainted.com">
+        <fileTransfer host="ftp.disapainted.com" port="21" password="dfc7dfcbdfdedfdfdfd9dfc6df93df93df9f" username="matuslestancom@disapainted.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2293a2ee-09b6-46d8-91dc-65d42d01ddd2" name="plnevrecka" url="http://ftp.plnevrecka.sk">
+        <fileTransfer host="ftp.plnevrecka.sk" port="21" password="dfe6dfcfdfd9dfdedfcbdfc4df9bdf93df93df9bdf80" username="plnevrecka.sk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e99e4ad4-c40d-4b95-9763-839178f6af4f" name="ftp@disapainted.com" url="http://ftp.disapainted.com">
+        <fileTransfer host="ftp.disapainted.com" port="21" username="root@disapainted.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6892e01e-5538-4f9a-96d0-402780b56773" name="localhost" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

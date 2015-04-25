@@ -1,0 +1,767 @@
+<application>
+  <component name="AngularJSConfig">
+    <option name="INSERT_WHITESPACE" value="true" />
+  </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.openlm.biz:843/olm_easyadmin/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.openlm.biz:843/olm_easyadmin/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/.project">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/.sencha">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/.sencha" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/.settings">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/MicrosoftAjax.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/MicrosoftAjax.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/Readme.md">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/Readme.md" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/app">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/app" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/app.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/app.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/app.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/app.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/bootstrap.css">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/bootstrap.css" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/bootstrap.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/bootstrap.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/bootstrap.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/bootstrap.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/build.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/build.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/build.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/build.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/build_test_page.jsb3">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/build_test_page.jsb3" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/calendar">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/calendar" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/config.ini">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/config.ini" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/config.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/config.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/config_deploy.ini">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/config_deploy.ini" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/config_deploy.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/config_deploy.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/ea5">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/ea5" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/ext">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/ext" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/favicon.ico">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/favicon.ico" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/filewriter.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/filewriter.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/flash_detect.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/flash_detect.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/index.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/index.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/overrides">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/overrides" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/packages">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/packages" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/params.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/params.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/proxy.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/proxy.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/resources">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/resources" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/sass">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/sass" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/state.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/state.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/test_openlm.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/test_openlm.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/test_openlm.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/test_openlm.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/test_openlm_prod.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/test_openlm_prod.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/timezones.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/timezones.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/tutorial">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/tutorial" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/update_web_proxy.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/update_web_proxy.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/update_web_proxy.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/update_web_proxy.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/update_web_proxy_saas.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/update_web_proxy_saas.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/web_proxy.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/web_proxy.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/branches/Ver2.0/web_proxy_saas.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/branches/Ver2.0/web_proxy_saas.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/.project">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/.sencha">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/.sencha" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/.settings">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/MicrosoftAjax.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/MicrosoftAjax.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/Readme.md">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/Readme.md" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/app">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/app" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/app.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/app.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/app.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/app.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/bootstrap.css">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/bootstrap.css" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/bootstrap.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/bootstrap.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/bootstrap.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/bootstrap.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/build.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/build.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/build.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/build.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/build_test_page.jsb3">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/build_test_page.jsb3" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/calendar">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/calendar" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/config.ini">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/config.ini" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/config.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/config.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/config_deploy.ini">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/config_deploy.ini" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/config_deploy.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/config_deploy.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/ea5">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/ea5" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/ext">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/ext" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/favicon.ico">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/favicon.ico" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/filewriter.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/filewriter.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/flash_detect.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/flash_detect.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/index.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/index.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/overrides">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/overrides" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/packages">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/packages" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/params.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/params.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/proxy.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/proxy.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/resources">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/resources" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/sass">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/sass" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/state.json">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/state.json" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/test_openlm.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/test_openlm.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/test_openlm.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/test_openlm.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/test_openlm_prod.html">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/test_openlm_prod.html" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/timezones.xml">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/timezones.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/tutorial">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/tutorial" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/update_web_proxy.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/update_web_proxy.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/update_web_proxy.php">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/update_web_proxy.php" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/update_web_proxy_saas.cmd">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/update_web_proxy_saas.cmd" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/web_proxy.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/web_proxy.js" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.openlm.biz:843/olm_easyadmin/trunk/web_proxy_saas.js">
+          <value>
+            <set>
+              <option value="/var/www/olm_easyadmin/trunk/web_proxy_saas.js" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Angular Controller" />
+            <item index="1" class="java.lang.String" itemvalue="Angular Factory" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
