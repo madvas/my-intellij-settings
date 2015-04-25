@@ -81,7 +81,8 @@
     <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="fun" value="function($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+  <template name="fun" value="function $s$($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
