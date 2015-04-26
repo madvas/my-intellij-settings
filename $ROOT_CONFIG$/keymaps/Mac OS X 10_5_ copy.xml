@@ -90,6 +90,12 @@
     <keyboard-shortcut first-keystroke="shift meta BACK_SPACE" />
     <keyboard-shortcut first-keystroke="alt Q" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta UP" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="control RIGHT" />
   </action>
@@ -128,6 +134,9 @@
   <action id="Run" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt HOME" />
+  </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="F8" />
     <keyboard-shortcut first-keystroke="shift alt Z" />
