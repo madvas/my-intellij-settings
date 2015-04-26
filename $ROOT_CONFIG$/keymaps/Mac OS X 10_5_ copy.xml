@@ -91,11 +91,13 @@
     <keyboard-shortcut first-keystroke="alt Q" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="meta DOWN" />
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="meta UP" />
+    <keyboard-shortcut first-keystroke="shift meta UP" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="control RIGHT" />
   </action>
@@ -127,6 +129,7 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt R" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="F10" />
     <keyboard-shortcut first-keystroke="alt Z" />
