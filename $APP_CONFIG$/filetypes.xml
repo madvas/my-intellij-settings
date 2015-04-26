@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping ext="svg" type="HTML" />
       <mapping ext="ttf" type="Native" />
-      <mapping pattern="missing_pages" type="PLAIN_TEXT" />
-      <mapping pattern=".SyncID" type="PLAIN_TEXT" />
-      <mapping pattern=".sconsign.dblite" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".SyncID" type="PLAIN_TEXT" />
+      <mapping pattern="missing_pages" type="PLAIN_TEXT" />
+      <mapping pattern=".sconsign.dblite" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
