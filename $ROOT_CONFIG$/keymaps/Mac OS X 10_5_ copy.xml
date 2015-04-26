@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta alt LEFT" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChooseRunConfiguration" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta SLASH" />
     <keyboard-shortcut first-keystroke="meta DIVIDE" />
@@ -134,7 +135,9 @@
     <keyboard-shortcut first-keystroke="F10" />
     <keyboard-shortcut first-keystroke="alt Z" />
   </action>
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta X" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowNavBar">
