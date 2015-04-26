@@ -105,6 +105,7 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="shift BACK_QUOTE" />
   </action>
+  <action id="RecentChanges" />
   <action id="Refresh" />
   <action id="ReloadInBrowserAction">
     <keyboard-shortcut first-keystroke="meta R" />
@@ -128,8 +129,8 @@
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="F9" />
-    <keyboard-shortcut first-keystroke="alt X" />
+    <keyboard-shortcut first-keystroke="F8" />
+    <keyboard-shortcut first-keystroke="shift alt Z" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
@@ -150,8 +151,13 @@
     <keyboard-shortcut first-keystroke="meta F8" />
     <keyboard-shortcut first-keystroke="alt C" />
   </action>
+  <action id="ToggleTemporaryLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta alt F8" />
+    <keyboard-shortcut first-keystroke="shift alt C" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="XDebugger.MuteBreakpoints">
-    <keyboard-shortcut first-keystroke="alt B" />
+    <keyboard-shortcut first-keystroke="shift alt X" />
   </action>
+  <action id="context.clear" />
 </keymap>
