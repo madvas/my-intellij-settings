@@ -66,6 +66,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
+  <action id="Find" />
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
@@ -124,7 +125,7 @@
     <keyboard-shortcut first-keystroke="alt R" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="control R" />
+    <keyboard-shortcut first-keystroke="meta F" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests">
