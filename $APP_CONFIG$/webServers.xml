@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="WebServers">
     <option name="servers">
@@ -29,5 +30,9 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
   </component>
 </application>
+

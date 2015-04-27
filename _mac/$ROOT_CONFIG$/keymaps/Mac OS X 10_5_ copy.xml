@@ -24,8 +24,11 @@
     <keyboard-shortcut first-keystroke="control LEFT" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditorChooseLookupItemCompleteStatement">
+  <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="ENTER" />
   </action>
   <action id="EditorChooseLookupItemReplace">
     <keyboard-shortcut first-keystroke="shift TAB" />
@@ -121,7 +124,9 @@
     <keyboard-shortcut first-keystroke="F10" />
     <keyboard-shortcut first-keystroke="alt Z" />
   </action>
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta X" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="StepOver">
