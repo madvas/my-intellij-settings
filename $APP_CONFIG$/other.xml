@@ -147,6 +147,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/www/mytravelguide" />
         <option value="$USER_HOME$/www/constituency" />
         <option value="$USER_HOME$/www/vulnerability" />
         <option value="/var/www/constituency" />
@@ -171,15 +172,9 @@
         <option value="/var/www/builtwith.angularjs.org" />
         <option value="/var/www/stkconverter" />
         <option value="/var/www/dpnews" />
-        <option value="/var/www/svg" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/www/constituency" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/www/constituency" />
+    <option name="lastPath" value="$USER_HOME$/www/mytravelguide" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://jira.kreios.lu">
