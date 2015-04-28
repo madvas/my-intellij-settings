@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="svg" type="HTML" />
       <mapping ext="ttf" type="Native" />
+      <mapping pattern="mytravelguide_dev" type="PLAIN_TEXT" />
       <mapping pattern=".SyncID" type="PLAIN_TEXT" />
       <mapping pattern="missing_pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
