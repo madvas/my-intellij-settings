@@ -43,4 +43,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="{{" value="{{ $s$ }}$END$" description="{{ }}" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
