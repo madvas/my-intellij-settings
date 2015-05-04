@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="bash" />
+    <option name="myShellPath" value="/usr/local/opt/fish/bin/fish" />
   </component>
 </application>
