@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt LEFT" />
     <mouse-shortcut keystroke="button4" />
@@ -183,6 +187,7 @@
     <keyboard-shortcut first-keystroke="shift alt C" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift alt X" />
   </action>
