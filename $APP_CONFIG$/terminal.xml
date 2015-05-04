@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="fish" />
+    <option name="myShellPath" value="bash" />
   </component>
 </application>
-
