@@ -89,15 +89,15 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="PyCodeInsightSettings">
@@ -150,6 +150,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/www/haskel-hacking" />
         <option value="$USER_HOME$/www/mytravelguide" />
         <option value="$USER_HOME$/www/constituency" />
         <option value="$USER_HOME$/www/vulnerability" />
@@ -174,7 +175,6 @@
         <option value="/var/www/jsgif" />
         <option value="/var/www/builtwith.angularjs.org" />
         <option value="/var/www/stkconverter" />
-        <option value="/var/www/dpnews" />
       </list>
     </option>
     <option name="openPaths">
@@ -182,7 +182,7 @@
         <option value="$USER_HOME$/www/mytravelguide" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/www/mytravelguide" />
+    <option name="lastPath" value="$USER_HOME$/www/haskel-hacking" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://jira.kreios.lu">
