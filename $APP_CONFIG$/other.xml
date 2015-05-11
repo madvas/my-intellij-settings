@@ -177,6 +177,11 @@
         <option value="/var/www/stkconverter" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/www/constituency" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/www/constituency" />
   </component>
   <component name="RecentTaskRepositories">
