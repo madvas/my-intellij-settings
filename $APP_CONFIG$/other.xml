@@ -150,10 +150,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/www/vulnerability" />
         <option value="$USER_HOME$/www/constituency" />
         <option value="$USER_HOME$/www/mytravelguide" />
         <option value="$USER_HOME$/www/haskel-hacking" />
-        <option value="$USER_HOME$/www/vulnerability" />
         <option value="/var/www/constituency" />
         <option value="/var/www/gae-init" />
         <option value="/var/www/vulnerability" />
@@ -179,10 +179,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/www/constituency" />
+        <option value="$USER_HOME$/www/vulnerability" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/www/constituency" />
+    <option name="lastPath" value="$USER_HOME$/www/vulnerability" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://jira.kreios.lu">
