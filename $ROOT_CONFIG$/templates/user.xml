@@ -31,7 +31,6 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
@@ -39,7 +38,6 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
@@ -54,7 +52,6 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
@@ -63,7 +60,6 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
