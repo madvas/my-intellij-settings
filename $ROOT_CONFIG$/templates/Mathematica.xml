@@ -1,7 +1,0 @@
-<templateSet group="Mathematica">
-  <template name="wth" value="With[{$VARS$}, $SELECTION$$END$]" description="With[{vars}, body]" toReformat="true" toShortenFQNames="false">
-    <variable name="VARS" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
-    <variable name="SELECTION" expression="" defaultValue="&quot;body&quot;" alwaysStopAt="false" />
-    <context />
-  </template>
-</templateSet>

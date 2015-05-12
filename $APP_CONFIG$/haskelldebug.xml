@@ -1,0 +1,5 @@
+<application>
+  <component name="HaskellDebugConfiguration">
+    <option name="remoteDebuggerPath" value="$USER_HOME$/Library/Haskell/bin/remote-debugger" />
+  </component>
+</application>

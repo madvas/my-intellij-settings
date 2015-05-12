@@ -1,9 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt LEFT" />
     <mouse-shortcut keystroke="button4" />
   </action>
-  <action id="ChooseRunConfiguration" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift control X" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta SLASH" />
     <keyboard-shortcut first-keystroke="meta DIVIDE" />
@@ -53,6 +59,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta D" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="LEFT" />
+  </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="HOME" />
     <keyboard-shortcut first-keystroke="meta LEFT" />
@@ -66,6 +75,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
+  <action id="Find" />
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
@@ -80,6 +90,9 @@
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="control B" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta O" />
   </action>
@@ -87,6 +100,11 @@
     <keyboard-shortcut first-keystroke="meta O" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift control B" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta BACK_SPACE" />
     <keyboard-shortcut first-keystroke="alt Q" />
@@ -124,7 +142,7 @@
     <keyboard-shortcut first-keystroke="alt R" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="control R" />
+    <keyboard-shortcut first-keystroke="meta F" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests">
@@ -171,6 +189,7 @@
     <keyboard-shortcut first-keystroke="shift alt C" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift alt X" />
   </action>
