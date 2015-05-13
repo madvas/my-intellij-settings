@@ -29,5 +29,8 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
   </component>
 </application>
