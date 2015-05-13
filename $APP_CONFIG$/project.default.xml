@@ -1,9 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="NamedScopeManager">
-        <order />
+      <component name="DaemonCodeAnalyzer">
+        <disable_hints />
       </component>
+      <component name="DependencyValidationManager">
+        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+      </component>
+      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
       <component name="ProjectDictionaryState">
         <dictionary name="matus" />
       </component>
@@ -49,6 +53,9 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <list size="0" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
