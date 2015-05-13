@@ -14,7 +14,4 @@
     </option>
     <option name="cloneParentDir" value="/var/www" />
   </component>
-  <component name="HgGlobalSettings">
-    <option name="myHgExecutable" value="hg" />
-  </component>
 </application>

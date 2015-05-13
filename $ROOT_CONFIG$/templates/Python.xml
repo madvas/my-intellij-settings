@@ -5,7 +5,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="Python" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -15,7 +14,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="Python" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -25,7 +23,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="Python" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -35,13 +32,10 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="Python" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="pylintdisable" value="# pylint: disable=$END$" description="pylint disable" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
