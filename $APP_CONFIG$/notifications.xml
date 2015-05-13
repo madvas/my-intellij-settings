@@ -20,19 +20,5 @@
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Web Deployment" displayType="TOOL_WINDOW" shouldLog="false" />
-    <toolWindow group="Git Messages" />
-    <toolWindow group="FindInPath" />
-    <toolWindow group="PHP Debugger" />
-    <toolWindow group="Common Version Control Messages" />
-    <toolWindow group="Database" />
-    <toolWindow group="Web Deployment" />
-    <toolWindow group="Debugger messages" />
-    <toolWindow group="JavaScript debugger" />
-    <toolWindow group="Database view" />
-    <toolWindow group="Find in Path" />
-    <toolWindow group="Grunt Console" />
-    <toolWindow group="Vcs Messages" />
-    <toolWindow group="Web Deployment: Remote Host" />
-    <toolWindow group="LiveEdit" />
   </component>
 </application>
