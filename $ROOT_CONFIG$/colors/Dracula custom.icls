@@ -83,6 +83,29 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
@@ -995,6 +1018,43 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bc9458" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
