@@ -90,7 +90,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="req" value="require('$s$')," description="require" toReformat="false" toShortenFQNames="true">
+  <template name="req" value="require('$s$');" description="require" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
