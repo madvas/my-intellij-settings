@@ -805,17 +805,6 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
-  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
       <TextAttributes />
