@@ -63,4 +63,18 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="row" value="class=&quot;row&quot;" description="class=&quot;row&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ngdelimiter" value="////////////////" description="////////////////" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
