@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.pyc;.pyo;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="svg" type="HTML" />
       <mapping ext="ttf" type="Native" />
@@ -15,9 +15,6 @@
       <mapping ext="jsonpack" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="db" type="SQLite Database" />
-      <mapping ext="sqlite" type="SQLite Database" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="7" />
   </component>
 </application>
