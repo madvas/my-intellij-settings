@@ -162,6 +162,8 @@
       <password>dfc7dfcbdfdedfdfdfd9df92df9fdf9cdf9edfe6df93df93df9f</password>
       <option name="jiraVersion" value="6.3.9" />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
