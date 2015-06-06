@@ -99,6 +99,15 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+  </component>
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
   </component>
@@ -153,6 +162,8 @@
       <password>dfc7dfcbdfdedfdfdfd9df92df9fdf9cdf9edfe6df93df93df9f</password>
       <option name="jiraVersion" value="6.3.9" />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
