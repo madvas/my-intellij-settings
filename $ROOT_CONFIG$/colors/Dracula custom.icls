@@ -61,17 +61,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="c57633" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="b0c95" />
-      </value>
-    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
@@ -465,15 +454,26 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="297bde" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="GString">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="Groovydoc comment">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Groovydoc tag">
+      <value>
+        <option name="FOREGROUND" value="7cb36f" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -521,54 +521,20 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="Instance property reference ID">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
       </value>
-    </option>
-    <option name="JAVA_DOC_MARKUP">
-      <value />
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JAVA_INVALID_STRING_ESCAPE">
+    <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="JAVA_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
-    <option name="JAVA_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="JAVA_STRING">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-      </value>
-    </option>
-    <option name="JAVA_VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="LABEL">
@@ -633,11 +599,6 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
-    <option name="Map key">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -707,11 +668,6 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="a3a08" />
@@ -727,9 +683,9 @@
         <option name="BACKGROUND" value="15463c" />
       </value>
     </option>
-    <option name="REST.ITALIC">
+    <option name="SASS_MIXIN">
       <value>
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

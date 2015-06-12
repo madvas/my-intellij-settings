@@ -10,32 +10,43 @@
             <id />
           </State>
           <State>
-            <id>Django</id>
+            <id>Assignment issuesJavaScript</id>
           </State>
           <State>
-            <id>General</id>
+            <id>CSS</id>
           </State>
           <State>
-            <id>Python</id>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XML</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyPep8NamingInspection</id>
+            <id>CoffeeScript</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
-  </component>
-  <component name="BaseRefactoringSettings">
-    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
-    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
-    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
-    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -88,62 +99,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="jdk.internal.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-  </component>
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
   </component>
@@ -191,43 +146,6 @@
       </map>
     </option>
   </component>
-  <component name="RecentDirectoryProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/www/haskel-hacking" />
-        <option value="$USER_HOME$/www/mytravelguide" />
-        <option value="$USER_HOME$/www/constituency" />
-        <option value="$USER_HOME$/www/vulnerability" />
-        <option value="/var/www/constituency" />
-        <option value="/var/www/gae-init" />
-        <option value="/var/www/vulnerability" />
-        <option value="/var/www/blacklist" />
-        <option value="/var/www/blacklist-management" />
-        <option value="/var/www/generator-gae-angular-material-starter" />
-        <option value="/var/www/generator-meanjs" />
-        <option value="/var/www/generator-playground" />
-        <option value="/var/www/gae-init-orig" />
-        <option value="/var/www/material-start" />
-        <option value="/var/www/const-test" />
-        <option value="/var/www/constituency-vulnerability-templates" />
-        <option value="/var/www/multiav" />
-        <option value="/var/www/phonebook" />
-        <option value="/var/www/flask_cookbook" />
-        <option value="/var/www/pci" />
-        <option value="/var/www/disapainted" />
-        <option value="/var/www/ml" />
-        <option value="/var/www/jsgif" />
-        <option value="/var/www/builtwith.angularjs.org" />
-        <option value="/var/www/stkconverter" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/www/mytravelguide" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/www/haskel-hacking" />
-  </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://jira.kreios.lu">
       <option name="apiType" value="REST_2_0" />
@@ -235,6 +153,8 @@
       <password>dfc7dfcbdfdedfdfdfd9df92df9fdf9cdf9edfe6df93df93df9f</password>
       <option name="jiraVersion" value="6.3.9" />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
