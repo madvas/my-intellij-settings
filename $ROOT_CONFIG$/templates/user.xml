@@ -1,67 +1,37 @@
 <templateSet group="user">
   <template name="flaskdeb" value="app.run(debug=True, threaded=True) # TODO REMOVE THEN" description="flask debug mode" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="vulnkarma" value="asd" description="vulnerability karma files" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="jscscamel" value="//jscs:disable requireCamelCaseOrUpperCaseIdentifiers" description="jscs camelCase check disable" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="jslintunparam" value="/*jslint unparam:true*/" description="jslint unparam true" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="angularanim" value=".anim-opacity {&#10;  opacity: 1;&#10;  height: 5px;&#10;  &amp;.ng-hide-add.ng-hide-add-active,&#10;  &amp;.ng-hide-remove.ng-hide-remove-active {&#10;    -webkit-transition: all linear 0.3s;&#10;    transition: all linear 0.3s;&#10;  }&#10;  &amp;.ng-hide {&#10;    height: 0;&#10;    opacity: 0;&#10;  }&#10;}" description="Basic show/hide Angular LESS animation" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
   <template name="docstring" value="&quot;&quot;&quot;This is an example of a module level function.&#10;    &#10;    Args:&#10;        param1 (int): The first parameter.&#10;        param2 (str, optional): The second parameter. Defaults to None.&#10;            Second line of description should be indented.&#10;        *args: Variable length argument list.&#10;        **kwargs: Arbitrary keyword arguments.&#10;    &#9;&#10;    Returns:&#10;        bool: True if successful, False otherwise.&#10;          &#10;    Raises:&#10;        AttributeError: The ``Raises`` section is a list of all exceptions&#10;        that are relevant to the interface.&#10;        ValueError: If `param2` is equal to `param1`.&#10;    &#10;    &quot;&quot;&quot;" description="google docstring" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="docclass" value="&quot;&quot;&quot;The summary line for a class docstring should fit on one line.&#10;&#10;If the class has public attributes, they should be documented here&#10;in an ``Attributes`` section and follow the same formatting as a&#10;function's ``Args`` section.&#10;&#10;Attributes:&#10;  attr1 (str): Description of `attr1`.&#10;  attr2 (list of str): Description of `attr2`.&#10;  attr3 (int): Description of `attr3`.&#10;&#10;&quot;&quot;&quot;" description="google docstring class" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="docinit" value="&quot;&quot;&quot;Example of docstring on the __init__ method.&#10;&#10;The __init__ method may be documented in either the class level&#10;docstring, or as a docstring on the __init__ method itself.&#10;&#10;Either form is acceptable, but the two should not be mixed. Choose one&#10;convention to document the __init__ method and be consistent with it.&#10;&#10;Note:&#10;  Do not include the `self` parameter in the ``Args`` section.&#10;&#10;Args:&#10;  param1 (str): Description of `param1`.&#10;  param2 (list of str): Description of `param2`. Multiple&#10;    lines are supported.&#10;  param3 (int, optional): Description of `param3`, defaults to 0.&#10;&#10;&quot;&quot;&quot;" description="google docstring init" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="docmeth" value="&quot;&quot;&quot;Class methods are similar to regular functions.&#10;&#10;Note:&#10;  Do not include the `self` parameter in the ``Args`` section.&#10;&#10;Args:&#10;  param1: The first parameter.&#10;  param2: The second parameter.&#10;&#10;Returns:&#10;  True if successful, False otherwise.&#10;&#10;&quot;&quot;&quot;" description="google docstring method" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="pylintimport" value="#pylint: disable=import-error" description="pylint disable import-error" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
   <template name="pylintdocstring" value="# pylint: disable=missing-docstring" description="disable pylint missing-doctring" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>

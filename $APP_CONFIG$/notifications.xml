@@ -1,46 +1,31 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Git Minor Notifications" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Database" displayType="TOOL_WINDOW" />
-    <notification groupId="Database log" displayType="NONE" />
-    <notification groupId="System Messages" />
-    <notification groupId="Web Deployment" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Reformat Code" />
-    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Node.js Project Detector" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <notification groupId="Project Settings" />
+    <notification groupId="Reformat Code" />
+    <notification groupId="Svn Roots Detection Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Messages" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Minor Notifications" />
-    <notification groupId="Database view" displayType="TOOL_WINDOW" />
-    <notification groupId="Database refactoring log" displayType="NONE" />
-    <notification groupId="Database editor log" displayType="NONE" />
-    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
-    <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
-    <notification groupId="Project Settings" />
-    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
-    <notification groupId="Svn Roots Detection Errors" displayType="STICKY_BALLOON" />
-    <notification groupId="Node.js Project Detector" />
-    <toolWindow group="Git Messages" />
-    <toolWindow group="FindInPath" />
-    <toolWindow group="PHP Debugger" />
-    <toolWindow group="Common Version Control Messages" />
-    <toolWindow group="Database" />
-    <toolWindow group="Web Deployment" />
-    <toolWindow group="Debugger messages" />
-    <toolWindow group="JavaScript debugger" />
-    <toolWindow group="Database view" />
-    <toolWindow group="Find in Path" />
-    <toolWindow group="Grunt Console" />
-    <toolWindow group="Vcs Messages" />
-    <toolWindow group="Web Deployment: Remote Host" />
-    <toolWindow group="LiveEdit" />
+    <notification groupId="Web Deployment" displayType="TOOL_WINDOW" shouldLog="false" />
   </component>
 </application>

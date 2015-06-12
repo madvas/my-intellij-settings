@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="RECENT_FILES_LIMIT" value="100" />
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
