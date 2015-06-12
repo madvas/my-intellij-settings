@@ -531,12 +531,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -681,11 +675,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="15463c" />
-      </value>
-    </option>
-    <option name="SASS_MIXIN">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
