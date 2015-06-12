@@ -3,31 +3,43 @@
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
+      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="layc" value="layout=&quot;column&quot;" description="layout=&quot;column&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
+      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="laya" value="layout-align=&quot;$END$&quot;" description="layout-align=&quot;&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
+      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="layasb" value="layout-align=&quot;space-between&quot;" description="layout-align=&quot;space-between&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
+      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="qdeferred" value="var deferred = $q.defer();&#10;deferred.resolve($END$);&#10;deferred.promise;" description="deferred" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="iifangular" value="(function(angular) {&#10;  'use strict';&#10;  &#10;  $END$&#10;}(angular));" description="inmmidiately invoked function with angular dependency" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="{{" value="{{ $s$ }}$END$" description="{{ }}" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
@@ -37,10 +49,19 @@
     </context>
   </template>
   <template name="tran" value="transition()" description="transition()" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
   <template name="pipedebug" value=".pipe(debug())" description="gulp debug pipe" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="row" value="class=&quot;row&quot;" description="class=&quot;row&quot;" toReformat="false" toShortenFQNames="true">
     <context>
@@ -49,11 +70,22 @@
     </context>
   </template>
   <template name="ngdelimiter" value="////////////////" description="////////////////" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="loproperty" value="_.property('$s$')$END$" description="lodash property" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
   <template name="latitude" value="latitude" description="latitude" toReformat="false" toShortenFQNames="true">
     <context>
@@ -63,6 +95,22 @@
       <option name="XML" value="true" />
       <option name="XML_TEXT" value="true" />
       <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Handlebars" value="true" />
+      <option name="HAML" value="true" />
+      <option name="JADE" value="true" />
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -74,6 +122,22 @@
       <option name="XML" value="true" />
       <option name="XML_TEXT" value="true" />
       <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Handlebars" value="true" />
+      <option name="HAML" value="true" />
+      <option name="JADE" value="true" />
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
