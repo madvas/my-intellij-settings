@@ -173,10 +173,6 @@
   <action id="Find" />
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt F7" />
-    <keyboard-shortcut first-keystroke="meta G" />
-  </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="meta F7" />
     <keyboard-shortcut first-keystroke="shift meta G" />
@@ -255,6 +251,10 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt HOME" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt F7" />
+    <keyboard-shortcut first-keystroke="meta G" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="F8" />
