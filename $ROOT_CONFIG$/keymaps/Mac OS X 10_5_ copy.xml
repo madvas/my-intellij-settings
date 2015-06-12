@@ -1,4 +1,95 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="control meta K" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta J" />
+  </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id=":cursive.actions.paredit/close-square-and-newline">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/copy-as-kill">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="control meta S" />
+  </action>
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id=":cursive.actions.paredit/kill-sexp">
+    <keyboard-shortcut first-keystroke="control alt K" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-down">
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-up">
+    <keyboard-shortcut first-keystroke="shift meta UP" />
+  </action>
+  <action id=":cursive.actions.paredit/raise">
+    <keyboard-shortcut first-keystroke="meta QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="control meta J" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta K" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift alt S" />
+  </action>
+  <action id=":cursive.actions.paredit/thread-form">
+    <keyboard-shortcut first-keystroke="meta alt COMMA" />
+  </action>
+  <action id=":cursive.actions.paredit/unthread-form">
+    <keyboard-shortcut first-keystroke="meta alt PERIOD" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-curly">
+    <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-quotes">
+    <keyboard-shortcut first-keystroke="shift meta QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="shift meta L" />
+  </action>
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="alt F" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta P" />
+    <keyboard-shortcut first-keystroke="alt A" />
+  </action>
+  <action id=":cursive.repl.actions/search-history">
+    <keyboard-shortcut first-keystroke="meta alt E" />
+  </action>
+  <action id=":cursive.repl.actions/sync-files">
+    <keyboard-shortcut first-keystroke="shift meta M" />
+  </action>
+  <action id=":cursive.testing.actions/remove-test-markers">
+    <keyboard-shortcut first-keystroke="shift meta BACK_SPACE" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt F12" />
     <keyboard-shortcut first-keystroke="meta T" />
@@ -66,7 +157,11 @@
     <keyboard-shortcut first-keystroke="HOME" />
     <keyboard-shortcut first-keystroke="meta LEFT" />
   </action>
+  <action id="EditorTab" />
   <action id="EditorToggleCase" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift alt A" />
   </action>
