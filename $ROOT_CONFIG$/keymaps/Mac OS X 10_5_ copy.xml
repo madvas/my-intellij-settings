@@ -1,6 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="alt LEFT" />
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
   </action>
   <action id=":cursive.actions.paredit/barf-backwards">
     <keyboard-shortcut first-keystroke="control meta K" />
@@ -22,6 +23,7 @@
   </action>
   <action id=":cursive.actions.paredit/forward">
     <keyboard-shortcut first-keystroke="alt RIGHT" />
+    <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="control meta S" />
