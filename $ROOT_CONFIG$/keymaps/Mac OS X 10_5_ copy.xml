@@ -226,7 +226,6 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="control J" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="shift BACK_QUOTE" />
   </action>
   <action id="RecentChanges" />
   <action id="Refresh" />
