@@ -73,6 +73,9 @@
   <action id=":cursive.actions.paredit/wrap-square">
     <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
   </action>
+  <action id=":cursive.repl.actions/clear-repl">
+    <keyboard-shortcut first-keystroke="CLEAR" />
+  </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta L" />
   </action>
