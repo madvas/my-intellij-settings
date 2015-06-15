@@ -16,4 +16,10 @@
       <option name="Clojure" value="true" />
     </context>
   </template>
+  <template name="prints" value="(println &quot;$a$&quot;)$END$" description="print &quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
+  </template>
 </templateSet>
