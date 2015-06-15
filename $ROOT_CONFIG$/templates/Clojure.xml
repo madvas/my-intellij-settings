@@ -1,0 +1,6 @@
+<templateSet group="Clojure">
+  <template name="print" value="(println ($c$))$END$" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
