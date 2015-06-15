@@ -1,6 +1,19 @@
 <templateSet group="Clojure">
+  <template name="if" value="(if ($a$)&#10;  ($b$)&#10;  ($c$))$END$" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="print" value="(println ($c$))$END$" description="print" toReformat="false" toShortenFQNames="true">
     <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
+  </template>
+  <template name="do" value="(do ($a$)&#10;    ($b$)$END$)" description="(do ())" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
   </template>
 </templateSet>
