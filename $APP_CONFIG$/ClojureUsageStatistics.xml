@@ -1,5 +1,39 @@
 <application>
   <component name="ClojureUsageStatistics">
-    <map />
+    <map>
+      <entry>
+        <key keyword="other-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="173" />
+              <value long="3" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="other-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="173" />
+              <value long="3" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="project-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="173" />
+              <value long="2" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+    </map>
   </component>
 </application>
