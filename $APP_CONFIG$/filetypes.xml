@@ -7,9 +7,9 @@
       <mapping pattern="mytravelguide_dev" type="PLAIN_TEXT" />
       <mapping pattern="application_files.txt" type="PLAIN_TEXT" />
       <mapping pattern=".SyncID" type="PLAIN_TEXT" />
-      <mapping pattern=".sconsign.dblite" type="PLAIN_TEXT" />
       <mapping pattern="missing_pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".sconsign.dblite" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
