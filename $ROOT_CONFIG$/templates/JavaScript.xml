@@ -122,6 +122,13 @@
     <context />
   </template>
   <template name="conjson" value="console.log(JSON.stringify($END$));" description="console.log json stringify" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JSON" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
 </templateSet>
