@@ -6,8 +6,23 @@
         <value>
           <map>
             <entry>
+              <key long="180" />
+              <value long="5" />
+            </entry>
+            <entry>
               <key long="173" />
               <value long="6" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="180" />
+              <value long="4" />
             </entry>
           </map>
         </value>
@@ -17,8 +32,23 @@
         <value>
           <map>
             <entry>
+              <key long="180" />
+              <value long="2" />
+            </entry>
+            <entry>
               <key long="173" />
-              <value long="6" />
+              <value long="8" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="180" />
+              <value long="12" />
             </entry>
           </map>
         </value>
@@ -27,6 +57,10 @@
         <key keyword="project-opened" />
         <value>
           <map>
+            <entry>
+              <key long="180" />
+              <value long="3" />
+            </entry>
             <entry>
               <key long="173" />
               <value long="2" />
