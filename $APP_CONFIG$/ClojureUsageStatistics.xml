@@ -13,12 +13,34 @@
         </value>
       </entry>
       <entry>
+        <key keyword="clj-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="182" />
+              <value long="3" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
         <key keyword="other-file-selected" />
         <value>
           <map>
             <entry>
               <key long="182" />
               <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="182" />
+              <value long="2" />
             </entry>
           </map>
         </value>
