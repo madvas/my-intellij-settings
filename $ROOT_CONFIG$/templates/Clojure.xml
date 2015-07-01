@@ -12,15 +12,11 @@
   <template name="do" value="(do ($a$)&#10;    ($b$)$END$)" description="(do ())" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Clojure" value="true" />
-    </context>
+    <context />
   </template>
   <template name="prints" value="(println &quot;$a$&quot;)$END$" description="print &quot;&quot;" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Clojure" value="true" />
-    </context>
+    <context />
   </template>
   <template name="defn" value="(defn $name$&#10;  [$arglist$]&#10;  $END$)" description="defn" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />

@@ -7,6 +7,6 @@
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="ENABLE_ALPHA_MODE" value="true" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="30" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
   </component>
 </application>
