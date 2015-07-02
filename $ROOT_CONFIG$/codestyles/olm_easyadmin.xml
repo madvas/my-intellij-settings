@@ -1,9 +1,4 @@
 <code_scheme name="olm_easyadmin">
-  <JSCodeStyleSettings>
-    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
-  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
