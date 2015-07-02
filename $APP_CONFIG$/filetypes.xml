@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="wisp" type="Clojurescript" />
       <mapping ext="svg" type="HTML" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="mytravelguide_dev" type="PLAIN_TEXT" />
