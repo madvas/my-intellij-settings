@@ -23,6 +23,7 @@
       <mapping ext="totalna" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="wisp" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite Database" />
       <mapping ext="sqlite" type="SQLite Database" />
