@@ -2,6 +2,17 @@
   <component name="ClojureUsageStatistics">
     <map>
       <entry>
+        <key keyword="clj-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="187" />
+              <value long="4" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
         <key keyword="cljs-file-selected" />
         <value>
           <map>
