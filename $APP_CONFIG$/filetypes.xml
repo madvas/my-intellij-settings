@@ -2,18 +2,17 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="wisp" type="Clojurescript" />
       <mapping ext="svg" type="HTML" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="mytravelguide_dev" type="PLAIN_TEXT" />
       <mapping pattern="application_files.txt" type="PLAIN_TEXT" />
       <mapping pattern=".SyncID" type="PLAIN_TEXT" />
       <mapping pattern=".sconsign.dblite" type="PLAIN_TEXT" />
-      <mapping pattern="missing_pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="missing_pages" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
@@ -26,6 +25,7 @@
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite Database" />
       <mapping ext="sqlite" type="SQLite Database" />
+      <mapping ext="wisp" type="Clojurescript" />
     </extensionMap>
   </component>
 </application>
