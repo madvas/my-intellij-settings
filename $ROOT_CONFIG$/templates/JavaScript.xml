@@ -15,6 +15,11 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -44,7 +49,13 @@
   <template name="fun" value="function $s$($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
   <template name="funs" value="function($PARAM$) {&#10;  $END$&#10;};" description="Inserts function expression with semicolon" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
@@ -52,7 +63,13 @@
   </template>
   <template name="req" value="require('$s$');" description="require" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
   <template name="don" value="done();" description="done();" toReformat="false" toShortenFQNames="true">
     <context />
@@ -111,6 +128,12 @@
   <template name="conjson" value="console.log(JSON.stringify($END$));" description="console.log json stringify" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSON" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
