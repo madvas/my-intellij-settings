@@ -157,4 +157,14 @@
       <option name="Handlebars" value="false" />
     </context>
   </template>
+  <template name="resolve" value="deferred.resolve($a$);$END$" description="deferred.resolve();" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
