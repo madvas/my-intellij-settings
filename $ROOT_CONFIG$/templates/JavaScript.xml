@@ -146,4 +146,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cons" value="console.log($s$);$END$" description="console.log();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Handlebars" value="false" />
+    </context>
+  </template>
 </templateSet>
