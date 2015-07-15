@@ -8,7 +8,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="con" value="console.log($s$)" shortcut="TAB" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="con" value="console.log($s$);" shortcut="TAB" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="false" />
@@ -125,7 +125,7 @@
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="conjson" value="console.log(JSON.stringify($END$))" description="console.log json stringify" toReformat="false" toShortenFQNames="true">
+  <template name="conjson" value="console.log(JSON.stringify($END$));" description="console.log json stringify" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSON" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
