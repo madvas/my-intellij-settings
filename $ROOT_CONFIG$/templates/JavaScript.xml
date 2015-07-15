@@ -136,7 +136,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="then" value=".then(($a$) =&gt; $END$);" description="then + arrow func" toReformat="false" toShortenFQNames="true">
+  <template name="then" value=".then(($a$) =&gt; $END$)" description="then + arrow func" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
