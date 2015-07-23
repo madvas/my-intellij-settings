@@ -81,10 +81,11 @@
   </action>
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="alt F" />
+    <keyboard-shortcut first-keystroke="control D" />
   </action>
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta P" />
-    <keyboard-shortcut first-keystroke="alt A" />
+    <keyboard-shortcut first-keystroke="control F" />
   </action>
   <action id=":cursive.repl.actions/search-history">
     <keyboard-shortcut first-keystroke="meta alt E" />
@@ -123,6 +124,7 @@
     <keyboard-shortcut first-keystroke="shift alt D" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="Debug" />
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="control A" />
   </action>
@@ -164,6 +166,9 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="HOME" />
     <keyboard-shortcut first-keystroke="meta LEFT" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="RIGHT" />
   </action>
   <action id="EditorTab" />
   <action id="EditorToggleCase" />
