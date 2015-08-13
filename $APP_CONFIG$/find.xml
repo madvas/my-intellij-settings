@@ -1,7 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
