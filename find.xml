@@ -1,5 +1,7 @@
 <application>
   <component name="FindSettings">
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
