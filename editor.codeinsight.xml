@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />

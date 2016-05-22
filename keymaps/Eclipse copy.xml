@@ -1,157 +1,157 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="$Redo">
-    <keyboard-shortcut first-keystroke="control Z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="$Undo">
-    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
-    <keyboard-shortcut first-keystroke="control alt D" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift control F4" />
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control F4" />
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CollapseSelection" />
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="shift control C" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyPaths" />
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="Debugger.AddToWatch">
-    <keyboard-shortcut first-keystroke="alt A" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="control F6" />
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
-    <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="control Z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorChooseLookupItem">
-    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift control ENTER" />
-    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorCodeBlockStart">
-    <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
-    <keyboard-shortcut first-keystroke="control P" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift control D" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="control NUMPAD0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="FileChooser.ShowHiddens">
-    <keyboard-shortcut first-keystroke="control H" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="control alt F" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="control K" />
-    <keyboard-shortcut first-keystroke="control PERIOD" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift control K" />
-    <keyboard-shortcut first-keystroke="control COMMA" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift ESCAPE" />
-    <keyboard-shortcut first-keystroke="shift control W" />
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole">
-    <keyboard-shortcut first-keystroke="shift control F10" />
-    <keyboard-shortcut first-keystroke="shift control C" />
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="control SEMICOLON" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="MethodHierarchy" />
   <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="shift control alt S" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="NextOccurence">
-    <keyboard-shortcut first-keystroke="control PERIOD" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="control F6" />
-    <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="PopupHector" />
   <action id="PreviousOccurence">
-    <keyboard-shortcut first-keystroke="control COMMA" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift control F6" />
-    <keyboard-shortcut first-keystroke="control PAGE_UP" />
-    <keyboard-shortcut first-keystroke="shift control SEMICOLON" />
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="Print" />
   <action id="ReloadInBrowserAction">
-    <keyboard-shortcut first-keystroke="control alt W" />
-    <keyboard-shortcut first-keystroke="control R" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RemoteHostView.CopyPaths" />
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="control alt R" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="F8" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="F9" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="ShowColorPicker">
-    <keyboard-shortcut first-keystroke="shift control P" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="control F11" />
-    <keyboard-shortcut first-keystroke="shift control F11" />
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Vcs.ChangesView">
-    <keyboard-shortcut first-keystroke="shift control L" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
-    <keyboard-shortcut first-keystroke="shift control alt H" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="shift control H" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
 </keymap>
