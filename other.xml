@@ -112,6 +112,7 @@
         <entry key="$USER_HOME$/.virtualenvs/constituency27/bin/python2.7" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/mytravelguide/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/vulnerability27/bin/python" value="true" />
+        <entry key="/usr/bin/python2.7" value="false" />
         <entry key="/var/www/flask_cookbook/my_flask_env/bin/python" value="false" />
         <entry key="/var/www/gae-init/temp/venv/bin/python" value="false" />
         <entry key="/var/www/phonebook/temp/venv/bin/python" value="false" />
